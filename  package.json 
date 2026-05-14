@@ -1,0 +1,11 @@
+{
+  "name": "my-birthday-page",
+  "version": "1.0.0",
+  "description": "A simple static webpage",
+  "main": "index.html",
+  "scripts": {
+    "start": "echo 'Hello World'"
+  },
+  "author": "Me",
+  "license": "MIT"
+}
